@@ -1,0 +1,13 @@
+Topic,Theme,CorpusSharePct,DominantEmotion,Severity,Tier,Team,SLA,Action,TierOrder
+9,9_gross_threw away_smells ok_smelled horrible,1.2,disgust,2.5,Critical,Product Safety / QA,24h,Review root cause for disgust-driven complaints,0
+0,0_quality_worth_shape_bottle,4.4,neutral,0.5,Medium,Customer Experience,1 week,Review root cause for neutral-driven complaints,2
+1,1_bristles soft_bristles_bristle_brush,4.3,neutral,0.5,Medium,Customer Experience,1 week,Review root cause for neutral-driven complaints,2
+5,5_brand worked_received defective_product_product worked,1.5,sadness,1.5,Medium,Product Development,1 week,Review root cause for sadness-driven complaints,2
+8,8_box fine_didnt long_damaged_used broken,1.2,sadness,1.5,Medium,Product Development,1 week,Review root cause for sadness-driven complaints,2
+10,10_product_product burned_dry_products,1.0,sadness,1.5,Medium,Product Development,1 week,Review root cause for sadness-driven complaints,2
+2,2_product_ordered_ugly_came,2.9,neutral,0.5,Low,Customer Experience,Monthly,Review root cause for neutral-driven complaints,3
+3,3_hair_hairline_bald_wig like,2.3,neutral,0.5,Low,Customer Experience,Monthly,Review root cause for neutral-driven complaints,3
+4,4_hairs_smooth_bad_refund br,1.6,neutral,0.5,Low,Customer Experience,Monthly,Review root cause for neutral-driven complaints,3
+6,6_horrible product_perfume_peel_horrible,1.5,neutral,0.5,Low,Customer Experience,Monthly,Review root cause for neutral-driven complaints,3
+7,7_headband_headbands_headbands nice_child head,1.3,neutral,0.5,Low,Customer Experience,Monthly,Review root cause for neutral-driven complaints,3
+11,11_disappointing horrible_pretty_rip_hair br,0.9,neutral,0.5,Low,Customer Experience,Monthly,Review root cause for neutral-driven complaints,3
